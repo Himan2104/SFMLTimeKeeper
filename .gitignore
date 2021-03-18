@@ -1,0 +1,11 @@
+.vscode/c_cpp_properties.json
+.vscode/settings.json
+exec.exe
+execute.bat
+main.o
+demo.o
+sfml-audio-2.dll
+sfml-graphics-2.dll
+sfml-network-2.dll
+sfml-system-2.dll
+sfml-window-2.dll
